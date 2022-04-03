@@ -1,9 +1,9 @@
 💡 <b>Javier Orraca</b>  
 ├─🚀 <b>Professional Overview</b>  
 │ ├─💼 <b>Career</b>  
-│ │ ├─ <a href="https://www.bloomreach.com/">Bloomreach</a> / 2021-Present / Sr Manager, Data Ops & Analytics  
+│ │ ├─ <a href="https://www.bloomreach.com/">Bloomreach</a> / Current / Sr Manager, Data Ops & Analytics  
 │ │ ├─ <a href="https://www.centene.com/">Centene</a> / 2019-2021 / Data Scientist III, Strategic Insights  
-│ │ ├─ <a href="https://www.kpmg.us/">KPMG</a> / 2015-2017 / Sr Manager, Economic & Valuation Services  
+│ │ ├─ <a href="https://www.kpmg.us/">KPMG</a> / 2015-2017 / Sr Manager, Economic & Valuation  
 │ │ ├─ <a href="https://www.pgecorp.com/">PG&E</a> / 2013-2015 / Supervisor, Capital Recovery & Analysis  
 │ │ └─ <a href="https://www.ey.com/">EY</a> / 2006-2013 / Manager, Valuation, Modeling, & Economics  
 │ └─📚 <b>Education</b>  
