@@ -19,5 +19,5 @@
   ├─ <a href="https://merage.uci.edu/news/2019/06/podcast-launched-by-merage-student-navigates-complex-field-of-data-analytics-and-science.html/">UC Irvine Newsroom</a> - Scatter Podcast highlight on UC Irvine's Newsroom   
   └─ <a href="https://merage.uci.edu/events/2021/10/2021-lxi-conference.html/">LatinX Initiative Conference</a> - Panelist at UC Irvine's inaugural LatinX conference   
 
-- 🔭 Don't judge my GitHub repos 😅 1) I know they suck, 2) I know you know they suck
-- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/orraca/) or via [Email](mailto:orraca.javier@gmail.com)
+🔭 Don't judge my GitHub repos 😅 1) I know they suck, 2) I know you know they suck
+📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/orraca/) or via [Email](mailto:orraca.javier@gmail.com)
