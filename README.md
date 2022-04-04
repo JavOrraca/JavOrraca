@@ -7,8 +7,8 @@
 │ │ ├─ <a href="https://www.pgecorp.com/">PG&E</a> / Supervisor, Capital Recovery & Analysis  
 │ │ └─ <a href="https://www.ey.com/">EY</a> / Manager, Valuation, Modeling, & Economics  
 │ └─📚 <b>Education</b>  
-│   ├─ <a href="https://uci.edu/">UC Irvine</a> / 2018-2019 / MSc Business Analytics  
-│   └─ <a href="https://www.gatech.edu/">Georgia Tech</a> / 2002-2006 / BSc Management & Finance  
+│   ├─ <a href="https://uci.edu/">UC Irvine</a> / MSc Business Analytics  
+│   └─ <a href="https://www.gatech.edu/">Georgia Tech</a> / BSc Management & Finance  
 ├─📦 <b>Projects</b>  
 │ ├─ <a href="https://www.javierorraca.com/">Personal Blog</a> - Data science blog  
 │ ├─ <a href="https://soundcloud.com/scatterpodcast">Scatter Podcast</a> - Analytics & data science in business  
