@@ -14,10 +14,10 @@
 │ ├─ <a href="https://soundcloud.com/scatterpodcast">Scatter Podcast</a> - Analytics & data science in business  
 │ └─ <a href="https://github.com/socalrug/">SoCal R Users Group</a> - Events coordinator & volunteer   
 └─💡 <b>Media Appearances & Public Events</b>  
-  ├─ <a href="https://forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started">Forbes</a> - Scatter Podcast mention on Forbes  
-  ├─ <a href="https://datapoints.griddynamics.com/events/data-points-virtual-summit-healthcare-finance-06-09-2021/">Data Points Conference</a> - R for Analytics Engineering   
-  ├─ <a href="https://merage.uci.edu/news/2019/06/podcast-launched-by-merage-student-navigates-complex-field-of-data-analytics-and-science.html/">UC Irvine Newsroom</a> - Scatter Podcast in UC Irvine news   
-  └─ <a href="https://merage.uci.edu/events/2021/10/2021-lxi-conference.html/">LatinX Initiative Conference</a> - Panelist at LatinX conference   
+   ├─ <a href="https://forbes.com/sites/louiscolumbus/2019/04/14/how-to-get-your-data-scientist-career-started">Forbes</a> - Scatter Podcast mention on Forbes  
+   ├─ <a href="https://datapoints.griddynamics.com/events/data-points-virtual-summit-healthcare-finance-06-09-2021/">Data Points Conference</a> - R for Analytics Engineering   
+   ├─ <a href="https://merage.uci.edu/news/2019/06/podcast-launched-by-merage-student-navigates-complex-field-of-data-analytics-and-science.html/">UC Irvine Newsroom</a> - Scatter Podcast in UC Irvine news   
+   └─ <a href="https://merage.uci.edu/events/2021/10/2021-lxi-conference.html/">LatinX Initiative Conference</a> - Panelist at LatinX conference   
 
 🔭 Don't judge my GitHub repos 😅   
 ├─ 1) I know they suck   
