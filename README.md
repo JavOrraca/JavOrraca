@@ -1,6 +1,6 @@
 <pre>
 
-💡 <b>Javier Orraca</b>  
+💡 <b>Javier Orraca-Deatcu</b>  
 ├─🚀 <b>Professional Overview</b>  
 │ ├─💼 <b>Career</b>  
 │ │ ├─ <a href="https://www.centene.com/">Centene</a> / Lead Machine Learning Engineer  
@@ -24,7 +24,6 @@
 
 📫 Contact:   
 ├─ [LinkedIn](https://www.linkedin.com/in/orraca/)   
-├─ [Twitter](https://twitter.com/JavierOrraca)   
-└─ [Email](mailto:orraca.javier@gmail.com)   
+└─ [Twitter](https://twitter.com/JavierOrraca)   
 
 </pre>
