@@ -13,7 +13,7 @@
 │   ├─ <a href="https://uci.edu/">UC Irvine</a> / MSc Business Analytics  
 │   └─ <a href="https://www.gatech.edu/">Georgia Tech</a> / BSc Management & Finance  
 ├─📦 <b>Projects</b>  
-│ ├─ <a href="https://www.javierorraca.com/">Personal Blog</a> - Data science blog  
+│ ├─ <a href="https://www.javierorracadeatcu.com/">Personal Blog</a> - Data science blog  
 │ ├─ <a href="https://soundcloud.com/scatterpodcast">Scatter Podcast</a> - Analytics & data science in business  
 │ └─ <a href="https://github.com/socalrug/">SoCal R Users Group</a> - Events coordinator & volunteer   
 └─💡 <b>Media Appearances & Public Events</b>  
@@ -23,7 +23,7 @@
 &#160;&#160;&#160;└─ <a href="https://merage.uci.edu/events/2021/10/2021-lxi-conference.html/">LatinX Initiative Conference</a> - Panelist at UC Irvine   
 
 📫 Contact:   
-├─ [LinkedIn](https://www.linkedin.com/in/orraca/)   
-└─ [Twitter](https://twitter.com/JavierOrraca)   
+├─ LinkedIn: <a href="https://www.linkedin.com/in/orraca/">https://www.linkedin.com/in/orraca</a>   
+└─ Twitter: <a href="https://twitter.com/JavierOrraca/">@JavierOrraca</a>   
 
 </pre>
